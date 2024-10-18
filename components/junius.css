@@ -1,0 +1,30 @@
+.junius-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.junius-harness {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.junius-image {
+  width: 200px;
+  object-fit: cover;
+}
+.junius-fragment1 {
+  display: contents;
+}
+.junius-text3 {
+  display: inline-block;
+}
+.junius-fragment2 {
+  display: contents;
+}
+.junius-text4 {
+  display: inline-block;
+}
